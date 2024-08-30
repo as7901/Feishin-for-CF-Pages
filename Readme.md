@@ -5,3 +5,5 @@
 感谢:
 - https://github.com/jeffvli/feishin
 - Cloudflare
+
+如果需要构建一个新的 static，仅需随意开启一个 Issue 即可触发 Workflows
