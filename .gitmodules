@@ -1,0 +1,4 @@
+[submodule "feishin"]
+	path = feishin
+	url = https://github.com/jeffvli/feishin.git
+	branch = development
